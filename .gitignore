@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Models
+models/*.gguf
+
+# Sample medical data
+data/sample_reports/*.pdf
+
+# OS
+.DS_Store
