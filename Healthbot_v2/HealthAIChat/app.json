@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Health AI Chat",
+    "slug": "health-ai-chat",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#f0fdf4"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.healthai.chat"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f0fdf4"
+      },
+      "package": "com.healthai.chat",
+      "usesCleartextTraffic": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
