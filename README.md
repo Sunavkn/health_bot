@@ -39,8 +39,8 @@ Both must be on the **same WiFi network**. The phone never connects to the inter
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                      PHONE (iOS / Android)               │
-│                                                          │
+│                      PHONE (iOS / Android)              │
+│                                                         │
 │   ┌──────────────────────────────────────────────────┐  │
 │   │  HealthAIChat (React Native / Expo)              │  │
 │   │                                                  │  │
@@ -49,25 +49,25 @@ Both must be on the **same WiFi network**. The phone never connects to the inter
 │   │  • Local chunk store (AsyncStorage)              │  │
 │   │  • On-device cosine similarity (RAG retrieval)   │  │
 │   └──────────────┬───────────────────────────────────┘  │
-│                  │  HTTP (same WiFi LAN)                 │
+│                  │  HTTP (same WiFi LAN)                │
 └──────────────────┼──────────────────────────────────────┘
                    │
 ┌──────────────────┼──────────────────────────────────────┐
-│                  ▼          LAPTOP                       │
+│                  ▼          LAPTOP                      │
 │   ┌──────────────────────────────────────────────────┐  │
 │   │  aichatbot_v2_fixed (FastAPI + Python)           │  │
 │   │                                                  │  │
-│   │  ┌────────────┐  ┌──────────────┐  ┌─────────┐  │  │
-│   │  │  OCR       │  │  Embedder    │  │  FAISS  │  │  │
-│   │  │  PaddleOCR │  │  MiniLM-L6   │  │  Index  │  │  │
-│   │  │  Tesseract │  │  (384-dim)   │  │         │  │  │
-│   │  └────────────┘  └──────────────┘  └─────────┘  │  │
+│   │  ┌────────────┐  ┌──────────────┐  ┌─────────┐   │  │
+│   │  │  OCR       │  │  Embedder    │  │  FAISS  │   │  │
+│   │  │  PaddleOCR │  │  MiniLM-L6   │  │  Index  │   │  │
+│   │  │  Tesseract │  │  (384-dim)   │  │         │   │  │
+│   │  └────────────┘  └──────────────┘  └─────────┘   │  │
 │   │                                                  │  │
-│   │  ┌──────────────────────────────────────────┐   │  │
-│   │  │  LLM — Meta-Llama-3.1-8B-Instruct        │   │  │
-│   │  │  Quantization: Q4_K_M (GGUF)             │   │  │
-│   │  │  Runtime: llama-cpp-python               │   │  │
-│   │  └──────────────────────────────────────────┘   │  │
+│   │  ┌──────────────────────────────────────────┐    │  │
+│   │  │  LLM — Meta-Llama-3.1-8B-Instruct        │    │  │
+│   │  │  Quantization: Q4_K_M (GGUF)             │    │  │
+│   │  │  Runtime: llama-cpp-python               │    │  │
+│   │  └──────────────────────────────────────────┘    │  │
 │   └──────────────────────────────────────────────────┘  │
 └─────────────────────────────────────────────────────────┘
 ```
