@@ -1,0 +1,14 @@
+{
+  "raw_documents/blood_reports/br_01.pdf": {
+    "confirmed": true,
+    "source_type": "lab_report"
+  },
+  "raw_documents/prescriptions/8605be97-db2e-486b-8968-4b8a770fb1a4.JPG": {
+    "confirmed": true,
+    "source_type": "prescription"
+  },
+  "raw_documents/prescriptions/medical prescription.png": {
+    "confirmed": true,
+    "source_type": "prescription"
+  }
+}

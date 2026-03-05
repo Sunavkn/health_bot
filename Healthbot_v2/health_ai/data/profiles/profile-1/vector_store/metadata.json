@@ -1,0 +1,536 @@
+{
+    "0": {
+        "text": "=== COMPLETE LAB RESULTS LISTING === Complete Blood Count: Hemoglobin: 14.5 g/dL (Ref: 13.0\u201316.5) RBC Count: 4.79 million/cmm (Ref: 4.5\u20135.5) Hematocrit: 43.3 % (Ref: 40.0\u201349.0) MCV: 90.3 fL (Ref: 83.0\u2013101.0) MCH: 30.2 pg (Ref: 27.1\u201332.5) MCHC: 33.4 g/dL (Ref: 32.5\u201336.7) RDW CV: 13.6 % (Ref: 11.6\u201314.0) WBC Count: 10570.0 /cmm (Ref: 4000.0\u201310000.0) Neutrophils %: 73.0 % (Ref: 40.0\u201380.0) Neutrophils Abs: 7716.0 /cmm (Ref: 2000.0\u20136700.0) Lymphocytes %: 19.0 % (Ref: 20.0\u201340.0) Lymphocytes Abs: 2008.0 /cmm (Ref: 1100.0\u20133300.0) Eosinophils %: 2.0 % (Ref: 1.0\u20136.0) Eosinophils Abs: 211.0 /cmm (Ref: 0.0\u2013400.0) Monocytes %: 6.0 % (Ref: 2.0\u201310.0) Monocytes Abs: 634.0 /cmm (Ref: 200.0\u2013700.0) Basophils %: 0.0 % (Ref: 0.0\u20132.0) Platelet Count: 150000.0 /cmm (Ref: 150000.0\u2013410000.0) MPV: 14.0 fL (Ref: 7.5\u201310.3) ESR: ESR: 7.0 mm/1hr (Ref: 0.0\u201314.0) Lipid Profile: Cholesterol: 189.0 mg/dL (Ref: <200.0) Triglyceride: 168.0 mg/dL (Ref: <150.0) HDL Cholesterol: 60.0 mg/dL (Ref: >40.0) LDL Cholesterol: 100.39 mg/dL (Ref: <100.0) VLDL: 33.6 mg/dL (Ref: 15.0\u201335.0) CHOL/HDL Ratio: 3.1 (Ref: <5.0) LDL/HDL Ratio: 1.7 (Ref: <3.5) Biochemistry: Fasting Blood Sugar: 141.0 mg/dL (Ref: 74.0\u2013106.0) HbA1c: HbA1c: 7.1 % (Ref: <6.5) Mean Blood Glucose: 157.07 mg/dL Thyroid Function: T3 - Triiodothyronine: 1.01 ng/mL (Ref: 0.58\u20131.59) T4 - Thyroxine: 7.84 mg/mL (Ref: 4.87\u201311.72) TSH: 0.8199 microIU/mL (Ref: 0.35\u20134.94) Urine Biochemistry: Microalbumin: 10.5 mg/L (Ref: <16.7) Liver Function: Total Protein: 7.0 g/dL (Ref: 6.3\u20138.2) Albumin: 4.2 g/dL (Ref: 3.5\u20135.0) Globulin: 2.8 g/dL (Ref: 2.3\u20133.5) A/G Ratio: 1.5 (Ref: 1.3\u20131.7) Total Bilirubin: 0.7 mg/dL (Ref: 0.2\u20131.3) Conjugated Bilirubin: 0.3 mg/dL (Ref: 0.0\u20130.3) Unconjugated Bilirubin: 0.2 mg/dL (Ref: 0.0\u20131.1) Delta Bilirubin: 0.2 mg/dL (Ref: 0.0\u20130.2) Iron Studies: Iron: 103.0 \u00b5g/dL (Ref: 49.0\u2013181.0) TIBC: 352.0 (Ref: 261.0\u2013462.0) Transferrin Saturation: 29.26 % (Ref: 20.0\u201350.0) Immunoassay: Homocysteine: 23.86 \u00b5mol/L (Ref: 6.0\u201314.8) Kidney Function: Creatinine: 0.83 mg/dL (Ref: 0.66\u20131.25) Urea: 18.0 mg/dL (Ref: 19.3\u201343.0) BUN: 8.41 mg/dL (Ref: 9.0\u201320.0) Uric Acid: 4.9 mg/dL (Ref: 3.5\u20138.5) Calcium: 9.1 mg/dL (Ref: 8.4\u201310.2) Liver Function: SGPT (ALT): 48.0 U/L (Ref: 0.0\u201350.0) SGOT (AST): 27.0 U/L (Ref: 17.0\u201359.0) Electrolytes: Sodium: 143.0 mmol/L (Ref: 136.0\u2013145.0) Potassium: 4.9 mmol/L (Ref: 3.5\u20135.1) Chloride: 105.0 mmol/L (Ref: 98.0\u2013107.0) Immunoassay: Vitamin D (25-OH): 8.98 ng/mL (Ref: >10.0) Vitamin B12: 147.0 pg/mL (Ref: 187.0\u2013833.0) PSA Total: 0.573 ng/mL (Ref: 0.0\u20134.0) IgE: 492.3 IU/mL (Ref: 0.0\u201387.0) Infectious Markers: HIV I&II Ab/Ag: 0.07 S/Co (Ref: <1.0) HBsAg: 0.29 S/Co (Ref: <1.0) HB Electrophoresis: Hb A: 84.4 % (Ref: 96.8\u201397.8) Hb A2: 2.8 % (Ref: 2.2\u20133.2) Foetal Hb: 0.3 % (Ref: 0.0\u20131.0) Urine Examination: Urine pH: 6.0 (Ref: 4.6\u20138.0) Specific Gravity: 1.03 (Ref: 1.005\u20131.03) Urine Glucose: 1.0 (Ref: <0.0) Urine Protein: 0.0",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_complete_listing",
+            "importance_score": 1.5,
+            "document_type": "lab_report",
+            "page": -2
+        }
+    },
+    "1": {
+        "text": "6.0 (Ref: 4.6\u20138.0) Specific Gravity: 1.03 (Ref: 1.005\u20131.03) Urine Glucose: 1.0 (Ref: <0.0) Urine Protein: 0.0",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_complete_listing",
+            "importance_score": 1.5,
+            "document_type": "lab_report",
+            "page": -2
+        }
+    },
+    "2": {
+        "text": "=== CLINICAL ANALYSIS SUMMARY (Abnormal First) === Total tests analysed: 67 Abnormal: 16 \u26a0 URGENT: Multiple severe abnormalities detected. --- ABNORMAL RESULTS --- Complete Blood Count: MPV: 14.0 fL [HIGH \u2191] (Severe) | Ref: 7.5\u201310.3 Neutrophils Abs: 7716.0 /cmm [HIGH \u2191] (Moderate) | Ref: 2000.0\u20136700.0 WBC Count: 10570.0 /cmm [HIGH \u2191] (Mild) | Ref: 4000.0\u201310000.0 Lymphocytes %: 19.0 % [LOW \u2193] (Mild) | Ref: 20.0\u201340.0 Biochemistry: Fasting Blood Sugar: 141.0 mg/dL [HIGH \u2191] (Severe) | Ref: 74.0\u2013106.0 Immunoassay: Homocysteine: 23.86 \u00b5mol/L [HIGH \u2191] (Severe) | Ref: 6.0\u201314.8 IgE: 492.3 IU/mL [HIGH \u2191] (Severe) | Ref: 0.0\u201387.0 Vitamin D (25-OH): 8.98 ng/mL [LOW \u2193] (Moderate) | Ref: >10.0 Vitamin B12: 147.0 pg/mL [LOW \u2193] (Moderate) | Ref: 187.0\u2013833.0 Lipid Profile: Triglyceride: 168.0 mg/dL [HIGH \u2191] (Moderate) | Ref: <150.0 LDL Cholesterol: 100.39 mg/dL [HIGH \u2191] (Mild) | Ref: <100.0 HB Electrophoresis: Hb A: 84.4 % [LOW \u2193] (Moderate) | Ref: 96.8\u201397.8 HbA1c: HbA1c: 7.1 % [HIGH \u2191] (Mild) | Ref: <6.5 Kidney Function: Urea: 18.0 mg/dL [LOW \u2193] (Mild) | Ref: 19.3\u201343.0 BUN: 8.41 mg/dL [LOW \u2193] (Mild) | Ref: 9.0\u201320.0 Urine Examination: Urine Glucose: 1.0 [HIGH \u2191] (None) | Ref: <0.0 --- NORMAL RESULTS --- Complete Blood Count: Hemoglobin: 14.5 g/dL [NORMAL] | Ref: 13.0\u201316.5 RBC Count: 4.79 million/cmm [NORMAL] | Ref: 4.5\u20135.5 Hematocrit: 43.3 % [NORMAL] | Ref: 40.0\u201349.0 MCV: 90.3 fL [NORMAL] | Ref: 83.0\u2013101.0 MCH: 30.2 pg [NORMAL] | Ref: 27.1\u201332.5 MCHC: 33.4 g/dL [NORMAL] | Ref: 32.5\u201336.7 RDW CV: 13.6 % [NORMAL] | Ref: 11.6\u201314.0 Neutrophils %: 73.0 % [NORMAL] | Ref: 40.0\u201380.0 Lymphocytes Abs: 2008.0 /cmm [NORMAL] | Ref: 1100.0\u20133300.0 Eosinophils %: 2.0 % [NORMAL] | Ref: 1.0\u20136.0 Eosinophils Abs: 211.0 /cmm [NORMAL] | Ref: 0.0\u2013400.0 Monocytes %: 6.0 % [NORMAL] | Ref: 2.0\u201310.0 Monocytes Abs: 634.0 /cmm [NORMAL] | Ref: 200.0\u2013700.0 Basophils %: 0.0 % [NORMAL] | Ref: 0.0\u20132.0 Platelet Count: 150000.0 /cmm [NORMAL] | Ref: 150000.0\u2013410000.0 ESR: ESR: 7.0 mm/1hr [NORMAL] | Ref: 0.0\u201314.0 Lipid Profile: Cholesterol: 189.0 mg/dL [NORMAL] | Ref: <200.0 HDL Cholesterol: 60.0 mg/dL [NORMAL] VLDL: 33.6 mg/dL [NORMAL] | Ref: 15.0\u201335.0 CHOL/HDL Ratio: 3.1 [NORMAL] | Ref: <5.0 LDL/HDL Ratio: 1.7 [NORMAL] | Ref: <3.5 Thyroid Function: T3 - Triiodothyronine: 1.01 ng/mL [NORMAL] | Ref: 0.58\u20131.59 T4 - Thyroxine: 7.84 mg/mL [NORMAL] | Ref: 4.87\u201311.72 TSH: 0.8199 microIU/mL [NORMAL] | Ref: 0.35\u20134.94 Urine Biochemistry: Microalbumin: 10.5 mg/L [NORMAL] | Ref: <16.7 Liver Function: Total Protein: 7.0 g/dL [NORMAL] | Ref: 6.3\u20138.2 Albumin: 4.2 g/dL [NORMAL] | Ref: 3.5\u20135.0 Globulin: 2.8 g/dL [NORMAL] | Ref: 2.3\u20133.5 A/G Ratio: 1.5 [NORMAL] | Ref: 1.3\u20131.7 Total Bilirubin: 0.7 mg/dL [NORMAL] | Ref: 0.2\u20131.3 Conjugated Bilirubin: 0.3 mg/dL [NORMAL] | Ref: 0.0\u20130.3 Unconjugated Bilirubin: 0.2 mg/dL [NORMAL] | Ref: 0.0\u20131.1 Delta Bilirubin: 0.2 mg/dL [NORMAL] | Ref: 0.0\u20130.2 SGPT (ALT): 48.0 U/L [NORMAL] | Ref: 0.0\u201350.0 SGOT (AST): 27.0 U/L [NORMAL] | Ref: 17.0\u201359.0 Iron Studies: Iron: 103.0 \u00b5g/dL [NORMAL] | Ref: 49.0\u2013181.0 TIBC: 352.0 [NORMAL] | Ref: 261.0\u2013462.0 Transferrin Saturation: 29.26 % [NORMAL] | Ref: 20.0\u201350.0 Kidney Function: Creatinine: 0.83 mg/dL [NORMAL]",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "clinical_analysis",
+            "importance_score": 1.5,
+            "document_type": "lab_report",
+            "page": -1
+        }
+    },
+    "3": {
+        "text": "Ref: 6.3\u20138.2 Albumin: 4.2 g/dL [NORMAL] | Ref: 3.5\u20135.0 Globulin: 2.8 g/dL [NORMAL] | Ref: 2.3\u20133.5 A/G Ratio: 1.5 [NORMAL] | Ref: 1.3\u20131.7 Total Bilirubin: 0.7 mg/dL [NORMAL] | Ref: 0.2\u20131.3 Conjugated Bilirubin: 0.3 mg/dL [NORMAL] | Ref: 0.0\u20130.3 Unconjugated Bilirubin: 0.2 mg/dL [NORMAL] | Ref: 0.0\u20131.1 Delta Bilirubin: 0.2 mg/dL [NORMAL] | Ref: 0.0\u20130.2 SGPT (ALT): 48.0 U/L [NORMAL] | Ref: 0.0\u201350.0 SGOT (AST): 27.0 U/L [NORMAL] | Ref: 17.0\u201359.0 Iron Studies: Iron: 103.0 \u00b5g/dL [NORMAL] | Ref: 49.0\u2013181.0 TIBC: 352.0 [NORMAL] | Ref: 261.0\u2013462.0 Transferrin Saturation: 29.26 % [NORMAL] | Ref: 20.0\u201350.0 Kidney Function: Creatinine: 0.83 mg/dL [NORMAL] | Ref: 0.66\u20131.25 Uric Acid: 4.9 mg/dL [NORMAL] | Ref: 3.5\u20138.5 Calcium: 9.1 mg/dL [NORMAL] | Ref: 8.4\u201310.2 Electrolytes: Sodium: 143.0 mmol/L [NORMAL] | Ref: 136.0\u2013145.0 Potassium: 4.9 mmol/L [NORMAL] | Ref: 3.5\u20135.1 Chloride: 105.0 mmol/L [NORMAL] | Ref: 98.0\u2013107.0 Immunoassay: PSA Total: 0.573 ng/mL [NORMAL] | Ref: 0.0\u20134.0 Infectious Markers: HIV I&II Ab/Ag: 0.07 S/Co [NORMAL] | Ref: <1.0 HBsAg: 0.29 S/Co [NORMAL] | Ref: <1.0 HB Electrophoresis: Hb A2: 2.8 % [NORMAL] | Ref: 2.2\u20133.2 Foetal Hb: 0.3 % [NORMAL] | Ref: 0.0\u20131.0 Urine Examination: Urine pH: 6.0 [NORMAL] | Ref: 4.6\u20138.0 Specific Gravity: 1.03 [NORMAL] | Ref: 1.005\u20131.03",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "clinical_analysis",
+            "importance_score": 1.5,
+            "document_type": "lab_report",
+            "page": -1
+        }
+    },
+    "4": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : EDTA Blood Complete Blood Count Test Result Unit Biological Ref. Interval Hemoglobin 14.5 g/dL 13.0 - 16.5 Colorimetric RBC Count 4.79 million/cmm 4.5 - 5.5 Electrical impedance Hematocrit 43.3 % 40 - 49 Calculated MCV 90.3 fL 83 - 101 Derived MCH 30.2 pg 27.1 - 32.5 Calculated MCHC 33.4 g/dL 32.5 - 36.7 Calculated RDW CV 13.60 % 11.6 - 14 Calculated Total WBC and Differential Count WBC Count H10570 /cmm 4000 - 10000 SF Cube cell analysis Differential Count Absolute Count Neutrophils Microscopic 73 % 40 - 80 7716 /cmm 2000 - 6700 Lymphocytes Microscopic 19 % 20 - 40 2008 /cmm 1100 - 3300 Eosinophils 02 % 1 - 6 211 /cmm 00 - 400 Microscopic Monocytes 06 % 2 - 10 634 /cmm 200 - 700 Microscopic Basophils 00 % 0 - 2 0 /cmm 0 - 100 Microscopic Platelet Count 150000 /cmm 150000 - 410000 Electrical impedance MPV H 14.00 fL 7.5 - 10.3 Calculated Peripheral Smear Examination RBC Morphology Normochromic Normocytic WBC Morphology WBCs Series Shows Normal Morphology Platelets Morphology Platelets are adequate with normal morphology. Parasites Malarial parasite is not detected. Erythrocyte Sedimentation Rate ESR 7 mm/1hr 0 - 14 Capillary photometry DR.TEJASWINI DHOTE Dr. Sanjeev Shah Dr.Yash Shah Page 1 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 0
+        }
+    },
+    "5": {
+        "text": "report authenticity Location : Sex/Age : Male / 41 Y 01-Feb-1982 Ref. By : Sample Type : EDTA Blood, Blood Group Test Result Unit Biological Ref. Interval ABO Type \"A\" Rh (D) Type Positive DR.TEJASWINI DHOTE Dr. Sanjeev Shah Dr.Yash Shah Page 2 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 1
+        }
+    },
+    "6": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Lipid Profile Test Result Unit Biological Ref. Interval Cholesterol 189.0 mg/dL Desirable : <200 Cholesterol oxidase \u2013 Peroxidase method Borderline High : 200-239 High : >240 Triglyceride H 168.0 mg/dL Normal : <150 Ezymatic (Lipase/GK/GPO/POD) Borderline : 150-199 High : 200-499 Very High : >500 HDL Cholesterol 60.0 mg/dL Low: <40.0 PTA/MgCl2 High: >60.0 Direct LDL H 100.39 mg/dL Optimal: <100 Direct measured Near to above Optimal: 100\u2013129 Borderline High: 130-159 High: 160\u2013189 Very High: =190 VLDL 33.60 mg/dL 15 - 35 Calculated CHOL/HDL Ratio 3.1 Up to 5.0 Calculated LDL/HDL Ratio 1.7 Up to 3.5 Calculated Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 2
+        }
+    },
+    "7": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Fluoride plasma Biochemistry Test Result Unit Biological Ref. Interval Fasting Blood Sugar H 141.0 mg/dL 74 - 106 GOD-POD Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah Page 4 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 3
+        }
+    },
+    "8": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : EDTA Blood HbA1c (Glycosylated Hemoglobin) Test Result Unit Biological Ref. Interval HbA1c H 7.10 % For Screening: High Performance Liquid Chromatography Diabetes: >6.5% Pre-Diabetes: 5.7% - 6.4% Non-Diabetes: < 5.7% For Diabetic Patient: Poor Control : > 7.0 % Good Control : 6.0-7.0 % Mean Blood Glucose 157.07 mg/dL Calculated Explanation:- \u2022 Total haemoglobin A1 c is continuously synthesized in the red blood cell throught its 120 days life span. The concentration of HBA1c in the cell reflects the average blood glucose concentration it encounters. \u2022 The level of HBA1c increases proportionately in patients with uncontrolled diabetes. It reflects the average blood glucose concentration over an extended time period and remains unaffected by short-term fluctuations in blood glucose levels. \u2022 The measurement of HbA1c can serve as a convenient test for evaluating the adequacy of diabetic control and in preventing various diabetic complications. Because the average half life of a red blood cell is sixty days, HbA1c has been accepted as a measurement which reflects the mean daily blood glucose concentration, better than fasting blood glucose determination, and the degree of carbohydrate imbalance over the preceding two months. \u2022 It may also provide a better index of control of the diabetic patient without resorting to glucose loading procedures. HbA1c assay Interferences: Erroneous values might be obtained from samples with abnormally elevated quantities of other Haemoglobins as a result of either their simultaneous elution with HbA1c (HbF) or differences in their glycation from that of HbA (HbS). Reference: ADA Guideline 2023 DR.TEJASWINI DHOTE Dr. Sanjeev Shah Dr.Yash Shah Page 5 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 4
+        }
+    },
+    "9": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Thyroid Function Test Test Result Unit Biological Ref. Interval T3 - Triiodothyronine 1.01 ng/mL 0.58 - 1.59 Chemiluminescence T4 - Thyroxine 7.84 mg/mL 4.87 - 11.72 TSH - Thyroid Stimulating Hormone 0.8199 microIU/mL 0.35 - 4.94 Chemiluminescence Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 5
+        }
+    },
+    "10": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Urine Biochemistry Test Result Unit Biological Ref. Interval Microalbumin (per urine volume) 10.50 mg/L < 16.7 Immunoturbidimetric In random urine specimens, normal urinary albumin excretion is below 17 mg/g creatinine for males and below 25 mg/g creatinine for females.(3) Microalbuminuria is defined as an albumin:creatinine ratio of 17 to 299 for males and 25 to 299 for females. A ratio of albumin:creatinine of 300 or higher is indicative of overt proteinuria. Due to biologic variability, positive results should be confirmed by a second, first-morning random or 24-hour timed urine specimen. If there is discrepancy, a third specimen is recommended. When 2 out of 3 results are in the microalbuminuria range, this is evidence for incipient nephropathy and warrants increased efforts at glucose control, blood pressure control, and institution of therapy with an angiotensin-converting-enzyme (ACE) inhibitor (if the patient can tolerate it). Reference : 1. Bennett PH, Haffner S, Kasiske BL, et al: Screening and management of microalbuminuria in patients with diabetes mellitus: recommendations to the Scientific Advisory Board of the National Kidney Foundation from an ad hoc committee of the Council on Diabetes Mellitus of the National Kidney Foundation. Am J Kidney Dis 1995;25:107-112 2. Krolewski AS, Laffel LM, Krolewski M, et al: Glycosylated hemoglobin and the risk of microalbuminuria in patients with insulin-dependent diabetes mellitus. N Engl J Med 1995;332:1251-1255 3. Zelmanovitz T, Gross JL, Oliveira JR, et al: The receiver operating characteristics curve in the evaluation of a random urine specimen as a screening test for diabetic nephropathy. Diabetes Care 1997;20:516-519 Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 6
+        }
+    },
+    "11": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Protein Test Result Unit Biological Ref. Interval Total Protein 7.00 g/dL 6.3 - 8.2 Copper tartrate to colour complex Albumin 4.20 g/dL 3.5 - 5.0 Bromocresol Green Method Globulin 2.80 g/dL 2.3 - 3.5 Calculated A/G Ratio 1.50 1.3 - 1.7 Calculated Bilirubin Total Bilirubin 0.70 mg/dL 0.2 - 1.3 Azobilirubin chromophores Conjugated Bilirubin 0.30 mg/dL 0.0 - 0.3 Cationic Mordant Binding Unconjugated Bilirubin 0.20 mg/dL 0.0 - 1.1 Cationic Mordant Binding Delta Bilirubin 0.20 mg/dL 0.0 - 0.2 Calculated Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 7
+        }
+    },
+    "12": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Iron Studies Test Result Unit Biological Ref. Interval Iron 103.00 micro g/dL 49 - 181 Pyridyl azo Dye Total Iron Binding Capacity (TIBC) 352.00 261 - 462 Transferrin Saturation 29.26 % Children : >16 Calculated Adult : 20 - 50 Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 8
+        }
+    },
+    "13": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Immunoassay Test Result Unit Biological Ref. Interval Homocysteine, Serum H 23.86 micromol/L 6.0 - 14.8 Chemiluminescence Summary and Uses: \u2022 Total Hcy is a thiol-containing amino acid, produced by the intracellular demethylation of methionine to cysteine. \u2022 Elevated levels of t Hcy may be used to exclude or confirm deficiencies of vitamin B12 or folate. \u2022 It is recommended to test in patients using medications that interfere with folate status (methotrexate, antiepileptics), vegetarians without B12 supplementations, unexplained anemia, peripheral neuropathy or myleopathy, recurrent spontaneous abortions or infertility. \u2022 Testing also recommended for patients 40 years of age with coronary artery disease to exclude homocystinuria. \u2022 Elevations in tHcy levels have also been used as an independent risk factor of coronary or cerebral vascular disease. Treatment of moderate hyperhomocystinemia with folic acid supplementation for primary and secondary cardiovascular protection has met with inconsistent results and at present cannot be routinely recommended. Limitations: \u2022 The plasma must be seprated immediately on collection to avoid continuous synthesis of Hcy by red cells. \u2022 Samples must be immediately stored on ice and serum centrifuged immediately before a complete clot is formed. \u2022 Certain drugs, such as anticonvulsants, methotrexate, or nitrous oxide, may interfere with the assay. \u2022 Cigarette smoking and coffee consumption increase tHcy levels. \u2022 Intraindividual variability is approximately 8%; it can be as much as 25% in patients with hyperhomocystinemia. \u2022 Generally, a single measurement of tHcy is considered adequate. Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 9
+        }
+    },
+    "14": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Biochemistry Test Result Unit Biological Ref. Interval Creatinine, Serum 0.83 mg/dL 0.66 - 1.25 Creatinine Amidohydrolase Urea L 18.0 mg/dL 19.3 - 43.0 Urease, Colorimetric Blood Urea Nitrogen L 8.41 mg/dL 9.0 - 20.0 Calculated Uric Acid 4.90 mg/dL 3.5 - 8.5 Uricase Calcium 9.10 mg/dL 8.4 - 10.2 Arsenazo III SGPT 48.0 U/L 0 - 50 UV with P5P, IFCC SGOT 27.0 U/L 17 - 59 UV with P5P Electrolytes Sodium (Na+) 143.00 mmol/L 136 - 145 Direct- ISE Potassium (K+) 4.90 mmol/L 3.5 - 5.1 Direct- ISE Chloride (Cl-) 105.0 mmol/L 98 - 107 Direct- ISE Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 10
+        }
+    },
+    "15": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Immunoassay Test Result Unit Biological Ref. Interval 25(OH) Vitamin D 8.98 ng/mL Deficiency : <10 CLIA Insufficiency : 10 - 30 Sufficiency : 30 - 100 Toxicity : >100 Vitamin D is a fat soluble vitamin and exists in two main forms as cholecalciferol(vitamin D3) which is synthesized in skin from 7-dehydrocholesterol in response to sunlight exposure & Ergocalciferol(vitamin D2) present mainly in dietary sources.Both cholecalciferol & Ergocalciferol are converted to 25(OH)vitamin D in liver. Interpretation: Increased In Vitamin D intoxication Excessive exposure to sunlight Decreased In Malabsorption Steatorrhea Dietary osteomalacia, anticonvulsant osteomalacia Biliary and portal cirrhosis Thyrotoxicosis Pancreatic insufficiency Celiac disease Rickets Alzheimer disease Limitations: More recently, it has become clear that receptors for vitamin D are present in a wide variety of cells and that this hormone has biologic effects extending beyond the control of mineral metabolism. Vitamin D deficiency is not clear. Levels needed to prevent rickets and osteomalacia (15 ng/mL) are lower than those that dramatically suppress parathyroid hormone levels (20\u201330 ng/mL). In turn, those levels are lower than levels needed to optimize intestinal calcium absorption (34 ng/mL). Neuromuscular peak performance is associated with levels approximately 38 ng/mL. A recent study states that increasing mean baseline levels from 29 to 38 ng/mL was associated with a 50% lower risk for colon cancer and levels of 52 ng/mL with a 50% reduction in the incidence of breast cancer. It is recommended to have clinical correlation with serum 25(OH)vitamin D, serum calcium, serum PTH & serum alkaline phosphatase. DR.TEJASWINI DHOTE Dr. Sanjeev Shah Dr.Yash Shah Page 12 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 11
+        }
+    },
+    "16": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Immunoassay Test Result Unit Biological Ref. Interval Vitamin B12 L < 148 pg/mL 187 - 833 CLIA Vitamin B12 is essential in DNA synthesis, hematopoiesis, and CNS integrity. Interpretation: \u2022 Increased In : Chronic granulocytic leukemia , COPD and Chronic renal failure , Leukocytosis , Liver cell damage (hepatitis, cirrhosis) , Obesity and Severe CHF , Polycythemia vera , Protein malnutrition. \u2022 Decreased In : Abnormalities of cobalamin transport or metabolism , Bacterial overgrowth , Crohn disease , Dietary deficiency (e.g. in vegetarians) , Diphyllobothrium (fish tapeworm) infestation , Gastric or small intestine surgery , Hypochlorhydria , Inflammatory bowel diseas , Intestinal malabsorption and Intrinsic factor deficiency Limitations: Drugs such as chloral hydrate increase vitamin B12 levels. On the other hand , alcohol, aminosalicylic acid, anticonvulsants, ascorbic acid, cholestyramine, cimetidine, colchicines, metformin, neomycin, oral contraceptives, ranitidine, and triamterene decrease vitamin B12 levels. The evaluation of macrocytic anemia requires measurements of both vitamin B12 and folate levels; ideally they should be measured simultaneously. Specimen collection soon after blood transfusion can falsely increase vitamin B12 levels. Patients taking vitamin B12 supplementation may have misleading results. A normal serum concentration of B12 does not rule out tissue deficiency of vitamin B12. The most sensitive test for B12 deficiency at the cellular level is the assay for MMA. If clinical symptoms suggest deficiency, measurement of MMA and homocysteine should be considered, even if serum B12 concentrations are normal. DR.TEJASWINI DHOTE Dr. Sanjeev Shah Dr.Yash Shah Page 13 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 12
+        }
+    },
+    "17": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Immunoassay Test Result Unit Biological Ref. Interval PSA-Prostate Specific Antigen, Total 0.573 ng/mL 0 - 4 PSA is a glycoprotein that is expresses by both normal and neoplastic prostate tissue and is prostate tissue specific and not prostate cancer specific. PSA is constantly expressed in nearly all prastate cancers, although its level of expression on a percell basis is lower than in normal prostate epithelium. The absolute value of serum PSA is useful for determining the extent of prostate cancer and assessing the response to prostate cancer treatment; its use as a screening method to detect prostate cancer is also common. Interpretation Increased in Prostate disease (Cancer, Prostatitis, Benign prostatic hyperplasia, Acute urinary retention) Manipulations ( Cystoscopy, Needle biopsy, Radiation therapy, Indwelling catheter, Prostatic massage) Transurethral resection Prostatic ischemia Decreased in Castration Prostatectomy Radiation therapy Ejaculation withi 24 - 48 hours 5-alpha-reductase inhibitor reduces PSA by 50% after 6 months in men without cancer Limitations PSA has been recommended by the American Cancer Society for use in conjunction with a DRE for early detection of prostate cancer starting at the age of 50 years for men with at least 10 year life expectancy PSA levels that are measured repeatedly over time may vary because of biologic variability where the true PSA level in a given man is different on different measurements. A change in PSA of >30% in man with a PSA initially below 2.0 ng/mL was likely to indicate a true change beyond normal random variation. Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 13
+        }
+    },
+    "18": {
+        "text": "report authenticity Location : Ref. By : Sample Type : Serum Immunoassay Test Result Unit Biological Ref. Interval IgE H 492.30 IU/mL 0 - 87 CLIA IgE mediates allergic and hypersensitivity reactions. There is a significant overlap in total IgE between allergic and nonallergic individuals. Interpretation: -Increased In \u2022 Atopic diseases Exogenous asthama in approximately 60% of patients Hay fever in approximately 30% of patients and Atopic eczema Influenced by type of allergen, duration of stimulation. Presence of symptoms, and hyposensitization treatment Parasitic diseases (e.g. ascariasis, visceral larva migrans, hookworm disease, schistosomiasis, Echinococcus infestation) Monoclonal IgE myeloma -Decreased In Hereditary deficiencies Acquired immunodeficiency Ataxia-telangiectasis Non-IgE myeloma Limitations: A normal level of IgE in serum does not eliminate the possibility of allergic disease. Serum total IgE levels for the majority of individuals with IgE-mediated disease can be expected to be elevated compared to the reference range for healthy adults. However, not all allergic patients exhibit elevated serum total IgE levels. \u2022 Since not all atopic reactions are IgE-mediated, a total IgE result in the reference range should always be interpreted in light of other clinical observations. Heterophilic antibodies in human serum can react with the immunoglobulins included in the assay components causing interference with in vitro immunoassays. Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 14
+        }
+    },
+    "19": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Test Result Unit Biological Ref. Interval HIV I & II Ab/Ag with P24 Ag 0.070 S/Co Non Reactive : <1.0 Chemiluminescence Reactive : >1.0 Interpretation Non Reactive HBsAg 0.290 S/Co Non Reactive : <1.0 Chemiluminescence Reactive: >1.0 Interpretation Non Reactive Additional Information: 1. A NON REACTIVE result implies that no Anti HIV-1 or HIV -2 antibodies have been detected in the sample by this method. This means that either the patient has not been exposed to HIV-1 or HIV-2 infection or the sample has been tested during the \"WINDOW PHASE\" (before the development of detectable levels of antibodies). 2. A PROVISIONALITY REACTIVE / BORDERLINE REACTIVE result suggests possibility of HIV-1 or/and HIV-2 infection. However these results must be verified by confirmatory WESTERN BLOT / HIV PCR method before declaring the patient positive for HIV-1 or HIV-2 infection. 3. Very high levels of IgM Antibodies or Anti-HLA ABC and DR Antibodies can give false positive reaction. **Pre & Post test counselling for HIV testing is responsibility of reffering Physician. Dr. Siddharth Thummar Dr. Sanjeev Shah Dr.Yash Shah Page 16 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 15
+        }
+    },
+    "20": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : EDTA Blood HB Electrophoresis By HPLC Instrument Name: BIORAD VARIANT - II Haemoglobin Testing System Test Result Unit Biological Ref. Interval Hb A L 84.4 % 96.8 - 97.8 Hb A2 2.8 % 2.2 - 3.2 P2 Peak 5.5 % P3 Peak 5.2 % Foetal Hb 0.3 % 0.0 - 1.0 Interpretation Negative for typical beta thalassemia trait. Interpretation: All results have to be correlated with age and history of blood transfusion if there is history of blood transfusion in last 3 months, repeat testing after 3 month from last date of transfusion is recommended. In case of haemoglobinopathy, parents or family studies and councelling is advised. This test detects beta thalassaemia and haemoglobinopathies, DNA analysis is recommended to rule out alpha thalassaemia and silent carriers. Linearity range of HbF is 1-40%, However, values in excess of the reportable range have been provided for ease of interpretation. Mild to moderate increase in fetal haemoglobiin can be seen in some acquired condition like pregnancy, megaloblastic anaemia, Throtoxicosis, Hypoxia, Chronic kidney disease, Recovering marrow, MDS, Aplastic anaemia, PNH, Medications (Hydrocyurea, Erythropoietin) ect. P3 window-Above 10% is often indicative of either denatured froms of hemoglobins or may suggest a possibility of abnormal haemoglobin variant. Hence, repeat analysis with fresh sample or DNA studies is advised. P2 Window-Above 10% is indicative of either glycated haemoglonin requring correlation with diabetic staus or may suggest a possibility of abnormal haemoglobin variant further DNA studies for confirmation. Dr. Hardik Modi Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 16
+        }
+    },
+    "21": {
+        "text": "Bio-Rad CDM System PATIENT REPORT VII Inst. #1. SN-13939 V2_BThal Patient Data Analysis Data Sample ID: 022321600126 Analysis Performed: 02/20/2023 13:56:59 Patient ID: Injection Number: 2575 Name: Run Number: 95 Physician: Rack ID: 0001 Sex: Tube Number: 2 DOB: Report Generated: 02/20/2023 14:04:40 Comments: Operator ID: Calibrated Retention Peak Peak Name Area % Area % Time (min) Area Unknown --- 0.1 1.00 2400 F 0.3 --- 1.08 8321 Unknown --- 1.6 1.18 44109 P2 --- 5.5 1.30 148807 P3 --- 5.2 1.72 139183 Ao --- 84.4 2.34 2277592 A2 2.8 --- 3.64 76999 Total Area: 2,697,411 F Concentration = 0.3 % A2 Concentration = 2.8 % Analysis comments: 45.0 37.5 30.0 22.5 15.0 7.5 0.0 0 1 2 3 4 5 6 Time (min.) 0 . 0 1 .1 - F 81.1 03.1 27.1 43.2 46.3 -2A Page 18 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 17
+        }
+    },
+    "22": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Urine Test Result Unit Biological Ref. Interval Physical & Chemical (Dip strip) examination Colour Pale Yellow Pale Yellow Clearity Clear Clear pH 6.0 4.6 - 8.0 Double indicator Specific Gravity 1.030 1.005 - 1.030 Polyelectrolyte based reaction Urine Glucose Present (+) Absent GOD-POD Urine Protein Absent Absent Protein error of indicators Bilirubin Absent Absent Diazo reaction Urobilinogen Absent Absent Modified Ehrlich reaction Urine Ketone Absent Absent Nitroprusside Nitrite Absent Absent Nitrite reaction Microscopic Examination Pus Cells 1-2 Absent Red Cells Nil /hpf 0 - 2 Epithelial Cells 1-2 /hpf . Casts Absent /hpf Absent Crystals Absent /hpf Absent Amorphous Material Absent ------------------ End Of Report ------------------ DR.TEJASWINI DHOTE Dr. Sanjeev Shah Dr.Yash Shah Page 19 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "page": 18
+        }
+    },
+    "23": {
+        "text": "Dr. Akshara \u2018% \u2018SMS hospital M. B/503, Business Center, MG Road, Pune Reg. No: MMC 2018 = 411000. Ph: 5465647658, Timing: 09:00 AM - 01:00 PM, 06:00 PM - 08:00 PM Closed: Sunday Date: 30-Aug-2023 ID: 11 - OPD6 PATIENT (M) /13Y Mob. No.: 9423380390 Address: PUNE Weight (Kg): 80, Height (Cm): 200 (B.M. 20.00), BP: 120/80 mmHg Chief Complaints Clinical Findings * FEVER WITH CHILLS (4 DAYS) * THESE ARE TEST FINDINGS FOR A TEST * HEADACHE (2 DAYS) PATIENT * ENTERING SAMPLE DIAGNOSIS AND SAMPLE PRESCRIPTION Diagnosis: * MALARIA R Medicine Name Dosage Duration 1) TAB. ABCIXIMAB 1 Morning 8 Days (Tot:8 Tab) 2) TAB. VOMILAST 1 Morning, 1 Night 8 Days (After Food) (Tot:16 Tab) DOXYLAMINE 10MG + PYRIDOXINE 10 MG + FOLIC ACID 2.5 MG 3) CAP. ZOCLAR 500 1 Morning 3 Days (Tot:3 Cap) (CLARITHROMYCIN 1P 500MG. 4) TAB. GESTAKIND 10/SR 1 Night 4 Days (Tot:4 Tab) ISOXSUPRINE 10 MG Advice: * TAKE BED REST * DO NOT EAT OUTSIDE FOOD * EAT EASY TO DIGEST FOOD LIKE BOILED RICE WITH DAAL Follow Up: 04-09-2023 \u2018Susbtitute with equivalent Generics as required.",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "prescription",
+            "importance_score": 0.9,
+            "document_type": "prescription"
+        }
+    },
+    "24": {
+        "text": "cp Quest Care Medical Clinic Anand Society, Dindayal Road, Ghatkopar questca re Mumbai, 368585 . Ph: 08097700800 MEDICAL CLINIC Patient: Aakruti Kapoor Mr. Anil Kumar Sharma Female, 31 years M.D.S. (Pune) 8097700800 Registration No.: A-77363 Date: 01-05-2019 Complaint: Full Body Pain, Weakness Feeling Observations: High Body Temperature, Reddish eye Investigations Suggested: \u00a2 Cratine * CBC Count Diagnosis: Dengue Rx Medicine Dosage Duration Measure Instructions Tab Rantac 150mg 1-1-1 3 days After Meal CAP SM FIBRO 1-0-1 5 days qual de Remarks: Keep measuring body Temp. twice a day. Next follow-up date: Friday May 03, 2019 5:00 PM Authorised Signature This is a computer generated document",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "prescription",
+            "importance_score": 0.9,
+            "document_type": "prescription"
+        }
+    },
+    "25": {
+        "text": "\u00b0 Dr. Akshara \u2018% \u2018SMS hospital MS. B/503, Business Center, MG Road, Pune Reg. No: MMC 2018 = 411000. Ph: 5465647658, Timing: 09:00 AM - 01:00 PM, 06:00 PM - 08:00 PM Closed: Sunday Date: 30-Aug-2023 ID: 11 - OPD6 PATIENT (M) /13Y Mob. No.: 9423380390 Address: PUNE Weight (Kg): 80, Height (Cm): 200 (B.M.I. = 20.00), BP: 120/80 mmHg Chief Complaints Clinical Findings * FEVER WITH CHILLS (4 DAYS) * THESE ARE TEST FINDINGS FOR A TEST * HEADACHE (2 DAYS) PATIENT * ENTERING SAMPLE DIAGNOSIS AND SAMPLE PRESCRIPTION Diagnosis: * MALARIA en es Medicine Name Dosage Duration 1) TAB. ABCIXIMAB 1 Morning 8 Days (Tot:8 Tab) 2) TAB. VOMILAST 1 Morning, 1 Night 8 Days (After Food) (Tot:16 Tab) DOXYLAMINE 10MG + PYRIDOXINE 10 MG + FOLIC ACID 2.5 MG 3) CAP. ZOCLAR 500 1 Morning 3 Days (Tot:3 Cap) (CLARITHROMYCIN 1P 500MG. 4) TAB. GESTAKIND 10/SR 1 Night 4 Days (Tot:4 Tab) ISOXSUPRINE 10 NG Advice: * TAKE BED REST * DO NOT EAT OUTSIDE FOOD * EAT EASY TO DIGEST FOOD LIKE BOILED RICE WITH DAAL Follow Up: 04-09-2023 Susbtitute with equivalent Generics as required",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "prescription",
+            "importance_score": 0.9,
+            "document_type": "prescription",
+            "filename": "8605be97-db2e-486b-8968-4b8a770fb1a4.JPG",
+            "ocr_engine": "pytesseract"
+        }
+    },
+    "26": {
+        "text": "oh Quest Care Medical Clinic Anand Society, Dindayal Road, Ghatkopar questca re Mumbai, 368585 . Ph: 08097700800 Patient: Aakruti Kapoor Mr. Anil Kumar Sharma Female, 31 years M.D.S. (Pune) 8097700800 Registration No.: A-77363 Date: 01-05-2019 Complaint: Full Body Pain, Weakness Feeling Observations: High Body Temperature, Reddish eye Investigations Suggested: \u00a2 Cratine * CBC Count Diagnosis: Dengue Rx Medicine Dosage Duration Measure Instructions Tab Rantac 150mg 1-1-1 3 days After Meal CAP SM FIBRO 1-0-1 5 days qual de Remarks: Keep measuring body Temp. twice a day. Next follow-up date: Friday May 03, 2019 5:00 PM Authorised Signature This is a computer generated document",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "prescription",
+            "importance_score": 0.9,
+            "document_type": "prescription",
+            "filename": "medical prescription.png",
+            "ocr_engine": "pytesseract"
+        }
+    },
+    "27": {
+        "text": "=== COMPLETE LAB RESULTS LISTING === Complete Blood Count: Hemoglobin: 14.5 g/dL (Ref: 13.0\u201316.5) RBC Count: 4.79 million/cmm (Ref: 4.5\u20135.5) Hematocrit: 43.3 % (Ref: 40.0\u201349.0) MCV: 90.3 fL (Ref: 83.0\u2013101.0) MCH: 30.2 pg (Ref: 27.1\u201332.5) MCHC: 33.4 g/dL (Ref: 32.5\u201336.7) RDW CV: 13.6 % (Ref: 11.6\u201314.0) WBC Count: 10570.0 /cmm (Ref: 4000.0\u201310000.0) Neutrophils %: 73.0 % (Ref: 40.0\u201380.0) Neutrophils Abs: 7716.0 /cmm (Ref: 2000.0\u20136700.0) Lymphocytes %: 19.0 % (Ref: 20.0\u201340.0) Lymphocytes Abs: 2008.0 /cmm (Ref: 1100.0\u20133300.0) Eosinophils %: 2.0 % (Ref: 1.0\u20136.0) Eosinophils Abs: 211.0 /cmm (Ref: 0.0\u2013400.0) Monocytes %: 6.0 % (Ref: 2.0\u201310.0) Monocytes Abs: 634.0 /cmm (Ref: 200.0\u2013700.0) Basophils %: 0.0 % (Ref: 0.0\u20132.0) Platelet Count: 150000.0 /cmm (Ref: 150000.0\u2013410000.0) MPV: 14.0 fL (Ref: 7.5\u201310.3) ESR: ESR: 7.0 mm/1hr (Ref: 0.0\u201314.0) Lipid Profile: Cholesterol: 189.0 mg/dL (Ref: <200.0) Triglyceride: 168.0 mg/dL (Ref: <150.0) HDL Cholesterol: 60.0 mg/dL (Ref: >40.0) LDL Cholesterol: 100.39 mg/dL (Ref: <100.0) VLDL: 33.6 mg/dL (Ref: 15.0\u201335.0) CHOL/HDL Ratio: 3.1 (Ref: <5.0) LDL/HDL Ratio: 1.7 (Ref: <3.5) Biochemistry: Fasting Blood Sugar: 141.0 mg/dL (Ref: 74.0\u2013106.0) HbA1c: HbA1c: 7.1 % (Ref: <6.5) Mean Blood Glucose: 157.07 mg/dL Thyroid Function: T3 - Triiodothyronine: 1.01 ng/mL (Ref: 0.58\u20131.59) T4 - Thyroxine: 7.84 mg/mL (Ref: 4.87\u201311.72) TSH: 0.8199 microIU/mL (Ref: 0.35\u20134.94) Urine Biochemistry: Microalbumin: 10.5 mg/L (Ref: <16.7) Liver Function: Total Protein: 7.0 g/dL (Ref: 6.3\u20138.2) Albumin: 4.2 g/dL (Ref: 3.5\u20135.0) Globulin: 2.8 g/dL (Ref: 2.3\u20133.5) A/G Ratio: 1.5 (Ref: 1.3\u20131.7) Total Bilirubin: 0.7 mg/dL (Ref: 0.2\u20131.3) Conjugated Bilirubin: 0.3 mg/dL (Ref: 0.0\u20130.3) Unconjugated Bilirubin: 0.2 mg/dL (Ref: 0.0\u20131.1) Delta Bilirubin: 0.2 mg/dL (Ref: 0.0\u20130.2) Iron Studies: Iron: 103.0 \u00b5g/dL (Ref: 49.0\u2013181.0) TIBC: 352.0 (Ref: 261.0\u2013462.0) Transferrin Saturation: 29.26 % (Ref: 20.0\u201350.0) Immunoassay: Homocysteine: 23.86 \u00b5mol/L (Ref: 6.0\u201314.8) Kidney Function: Creatinine: 0.83 mg/dL (Ref: 0.66\u20131.25) Urea: 18.0 mg/dL (Ref: 19.3\u201343.0) BUN: 8.41 mg/dL (Ref: 9.0\u201320.0) Uric Acid: 4.9 mg/dL (Ref: 3.5\u20138.5) Calcium: 9.1 mg/dL (Ref: 8.4\u201310.2) Liver Function: SGPT (ALT): 48.0 U/L (Ref: 0.0\u201350.0) SGOT (AST): 27.0 U/L (Ref: 17.0\u201359.0) Electrolytes: Sodium: 143.0 mmol/L (Ref: 136.0\u2013145.0) Potassium: 4.9 mmol/L (Ref: 3.5\u20135.1) Chloride: 105.0 mmol/L (Ref: 98.0\u2013107.0) Immunoassay: Vitamin D (25-OH): 8.98 ng/mL (Ref: >10.0) Vitamin B12: 147.0 pg/mL (Ref: 187.0\u2013833.0) PSA Total: 0.573 ng/mL (Ref: 0.0\u20134.0) IgE: 492.3 IU/mL (Ref: 0.0\u201387.0) Infectious Markers: HIV I&II Ab/Ag: 0.07 S/Co (Ref: <1.0) HBsAg: 0.29 S/Co (Ref: <1.0) HB Electrophoresis: Hb A: 84.4 % (Ref: 96.8\u201397.8) Hb A2: 2.8 % (Ref: 2.2\u20133.2) Foetal Hb: 0.3 % (Ref: 0.0\u20131.0) Urine Examination: Urine pH: 6.0 (Ref: 4.6\u20138.0) Specific Gravity: 1.03 (Ref: 1.005\u20131.03) Urine Glucose: 1.0 (Ref: <0.0) Urine Protein: 0.0",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_complete_listing",
+            "importance_score": 1.5,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": -2
+        }
+    },
+    "28": {
+        "text": "6.0 (Ref: 4.6\u20138.0) Specific Gravity: 1.03 (Ref: 1.005\u20131.03) Urine Glucose: 1.0 (Ref: <0.0) Urine Protein: 0.0",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_complete_listing",
+            "importance_score": 1.5,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": -2
+        }
+    },
+    "29": {
+        "text": "=== CLINICAL ANALYSIS SUMMARY (Abnormal First) === Total tests analysed: 67 Abnormal: 16 \u26a0 URGENT: Multiple severe abnormalities detected. --- ABNORMAL RESULTS --- Complete Blood Count: MPV: 14.0 fL [HIGH \u2191] (Severe) | Ref: 7.5\u201310.3 Neutrophils Abs: 7716.0 /cmm [HIGH \u2191] (Moderate) | Ref: 2000.0\u20136700.0 WBC Count: 10570.0 /cmm [HIGH \u2191] (Mild) | Ref: 4000.0\u201310000.0 Lymphocytes %: 19.0 % [LOW \u2193] (Mild) | Ref: 20.0\u201340.0 Biochemistry: Fasting Blood Sugar: 141.0 mg/dL [HIGH \u2191] (Severe) | Ref: 74.0\u2013106.0 Immunoassay: Homocysteine: 23.86 \u00b5mol/L [HIGH \u2191] (Severe) | Ref: 6.0\u201314.8 IgE: 492.3 IU/mL [HIGH \u2191] (Severe) | Ref: 0.0\u201387.0 Vitamin D (25-OH): 8.98 ng/mL [LOW \u2193] (Moderate) | Ref: >10.0 Vitamin B12: 147.0 pg/mL [LOW \u2193] (Moderate) | Ref: 187.0\u2013833.0 Lipid Profile: Triglyceride: 168.0 mg/dL [HIGH \u2191] (Moderate) | Ref: <150.0 LDL Cholesterol: 100.39 mg/dL [HIGH \u2191] (Mild) | Ref: <100.0 HB Electrophoresis: Hb A: 84.4 % [LOW \u2193] (Moderate) | Ref: 96.8\u201397.8 HbA1c: HbA1c: 7.1 % [HIGH \u2191] (Mild) | Ref: <6.5 Kidney Function: Urea: 18.0 mg/dL [LOW \u2193] (Mild) | Ref: 19.3\u201343.0 BUN: 8.41 mg/dL [LOW \u2193] (Mild) | Ref: 9.0\u201320.0 Urine Examination: Urine Glucose: 1.0 [HIGH \u2191] (None) | Ref: <0.0 --- NORMAL RESULTS --- Complete Blood Count: Hemoglobin: 14.5 g/dL [NORMAL] | Ref: 13.0\u201316.5 RBC Count: 4.79 million/cmm [NORMAL] | Ref: 4.5\u20135.5 Hematocrit: 43.3 % [NORMAL] | Ref: 40.0\u201349.0 MCV: 90.3 fL [NORMAL] | Ref: 83.0\u2013101.0 MCH: 30.2 pg [NORMAL] | Ref: 27.1\u201332.5 MCHC: 33.4 g/dL [NORMAL] | Ref: 32.5\u201336.7 RDW CV: 13.6 % [NORMAL] | Ref: 11.6\u201314.0 Neutrophils %: 73.0 % [NORMAL] | Ref: 40.0\u201380.0 Lymphocytes Abs: 2008.0 /cmm [NORMAL] | Ref: 1100.0\u20133300.0 Eosinophils %: 2.0 % [NORMAL] | Ref: 1.0\u20136.0 Eosinophils Abs: 211.0 /cmm [NORMAL] | Ref: 0.0\u2013400.0 Monocytes %: 6.0 % [NORMAL] | Ref: 2.0\u201310.0 Monocytes Abs: 634.0 /cmm [NORMAL] | Ref: 200.0\u2013700.0 Basophils %: 0.0 % [NORMAL] | Ref: 0.0\u20132.0 Platelet Count: 150000.0 /cmm [NORMAL] | Ref: 150000.0\u2013410000.0 ESR: ESR: 7.0 mm/1hr [NORMAL] | Ref: 0.0\u201314.0 Lipid Profile: Cholesterol: 189.0 mg/dL [NORMAL] | Ref: <200.0 HDL Cholesterol: 60.0 mg/dL [NORMAL] VLDL: 33.6 mg/dL [NORMAL] | Ref: 15.0\u201335.0 CHOL/HDL Ratio: 3.1 [NORMAL] | Ref: <5.0 LDL/HDL Ratio: 1.7 [NORMAL] | Ref: <3.5 Thyroid Function: T3 - Triiodothyronine: 1.01 ng/mL [NORMAL] | Ref: 0.58\u20131.59 T4 - Thyroxine: 7.84 mg/mL [NORMAL] | Ref: 4.87\u201311.72 TSH: 0.8199 microIU/mL [NORMAL] | Ref: 0.35\u20134.94 Urine Biochemistry: Microalbumin: 10.5 mg/L [NORMAL] | Ref: <16.7 Liver Function: Total Protein: 7.0 g/dL [NORMAL] | Ref: 6.3\u20138.2 Albumin: 4.2 g/dL [NORMAL] | Ref: 3.5\u20135.0 Globulin: 2.8 g/dL [NORMAL] | Ref: 2.3\u20133.5 A/G Ratio: 1.5 [NORMAL] | Ref: 1.3\u20131.7 Total Bilirubin: 0.7 mg/dL [NORMAL] | Ref: 0.2\u20131.3 Conjugated Bilirubin: 0.3 mg/dL [NORMAL] | Ref: 0.0\u20130.3 Unconjugated Bilirubin: 0.2 mg/dL [NORMAL] | Ref: 0.0\u20131.1 Delta Bilirubin: 0.2 mg/dL [NORMAL] | Ref: 0.0\u20130.2 SGPT (ALT): 48.0 U/L [NORMAL] | Ref: 0.0\u201350.0 SGOT (AST): 27.0 U/L [NORMAL] | Ref: 17.0\u201359.0 Iron Studies: Iron: 103.0 \u00b5g/dL [NORMAL] | Ref: 49.0\u2013181.0 TIBC: 352.0 [NORMAL] | Ref: 261.0\u2013462.0 Transferrin Saturation: 29.26 % [NORMAL] | Ref: 20.0\u201350.0 Kidney Function: Creatinine: 0.83 mg/dL [NORMAL]",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "clinical_analysis",
+            "importance_score": 1.5,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": -1
+        }
+    },
+    "30": {
+        "text": "Ref: 6.3\u20138.2 Albumin: 4.2 g/dL [NORMAL] | Ref: 3.5\u20135.0 Globulin: 2.8 g/dL [NORMAL] | Ref: 2.3\u20133.5 A/G Ratio: 1.5 [NORMAL] | Ref: 1.3\u20131.7 Total Bilirubin: 0.7 mg/dL [NORMAL] | Ref: 0.2\u20131.3 Conjugated Bilirubin: 0.3 mg/dL [NORMAL] | Ref: 0.0\u20130.3 Unconjugated Bilirubin: 0.2 mg/dL [NORMAL] | Ref: 0.0\u20131.1 Delta Bilirubin: 0.2 mg/dL [NORMAL] | Ref: 0.0\u20130.2 SGPT (ALT): 48.0 U/L [NORMAL] | Ref: 0.0\u201350.0 SGOT (AST): 27.0 U/L [NORMAL] | Ref: 17.0\u201359.0 Iron Studies: Iron: 103.0 \u00b5g/dL [NORMAL] | Ref: 49.0\u2013181.0 TIBC: 352.0 [NORMAL] | Ref: 261.0\u2013462.0 Transferrin Saturation: 29.26 % [NORMAL] | Ref: 20.0\u201350.0 Kidney Function: Creatinine: 0.83 mg/dL [NORMAL] | Ref: 0.66\u20131.25 Uric Acid: 4.9 mg/dL [NORMAL] | Ref: 3.5\u20138.5 Calcium: 9.1 mg/dL [NORMAL] | Ref: 8.4\u201310.2 Electrolytes: Sodium: 143.0 mmol/L [NORMAL] | Ref: 136.0\u2013145.0 Potassium: 4.9 mmol/L [NORMAL] | Ref: 3.5\u20135.1 Chloride: 105.0 mmol/L [NORMAL] | Ref: 98.0\u2013107.0 Immunoassay: PSA Total: 0.573 ng/mL [NORMAL] | Ref: 0.0\u20134.0 Infectious Markers: HIV I&II Ab/Ag: 0.07 S/Co [NORMAL] | Ref: <1.0 HBsAg: 0.29 S/Co [NORMAL] | Ref: <1.0 HB Electrophoresis: Hb A2: 2.8 % [NORMAL] | Ref: 2.2\u20133.2 Foetal Hb: 0.3 % [NORMAL] | Ref: 0.0\u20131.0 Urine Examination: Urine pH: 6.0 [NORMAL] | Ref: 4.6\u20138.0 Specific Gravity: 1.03 [NORMAL] | Ref: 1.005\u20131.03",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "clinical_analysis",
+            "importance_score": 1.5,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": -1
+        }
+    },
+    "31": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : EDTA Blood Complete Blood Count Test Result Unit Biological Ref. Interval Hemoglobin 14.5 g/dL 13.0 - 16.5 Colorimetric RBC Count 4.79 million/cmm 4.5 - 5.5 Electrical impedance Hematocrit 43.3 % 40 - 49 Calculated MCV 90.3 fL 83 - 101 Derived MCH 30.2 pg 27.1 - 32.5 Calculated MCHC 33.4 g/dL 32.5 - 36.7 Calculated RDW CV 13.60 % 11.6 - 14 Calculated Total WBC and Differential Count WBC Count H10570 /cmm 4000 - 10000 SF Cube cell analysis Differential Count Absolute Count Neutrophils Microscopic 73 % 40 - 80 7716 /cmm 2000 - 6700 Lymphocytes Microscopic 19 % 20 - 40 2008 /cmm 1100 - 3300 Eosinophils 02 % 1 - 6 211 /cmm 00 - 400 Microscopic Monocytes 06 % 2 - 10 634 /cmm 200 - 700 Microscopic Basophils 00 % 0 - 2 0 /cmm 0 - 100 Microscopic Platelet Count 150000 /cmm 150000 - 410000 Electrical impedance MPV H 14.00 fL 7.5 - 10.3 Calculated Peripheral Smear Examination RBC Morphology Normochromic Normocytic WBC Morphology WBCs Series Shows Normal Morphology Platelets Morphology Platelets are adequate with normal morphology. Parasites Malarial parasite is not detected. Erythrocyte Sedimentation Rate ESR 7 mm/1hr 0 - 14 Capillary photometry DR.TEJASWINI DHOTE Dr. Sanjeev Shah Dr.Yash Shah Page 1 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 0
+        }
+    },
+    "32": {
+        "text": "report authenticity Location : Sex/Age : Male / 41 Y 01-Feb-1982 Ref. By : Sample Type : EDTA Blood, Blood Group Test Result Unit Biological Ref. Interval ABO Type \"A\" Rh (D) Type Positive DR.TEJASWINI DHOTE Dr. Sanjeev Shah Dr.Yash Shah Page 2 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 1
+        }
+    },
+    "33": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Lipid Profile Test Result Unit Biological Ref. Interval Cholesterol 189.0 mg/dL Desirable : <200 Cholesterol oxidase \u2013 Peroxidase method Borderline High : 200-239 High : >240 Triglyceride H 168.0 mg/dL Normal : <150 Ezymatic (Lipase/GK/GPO/POD) Borderline : 150-199 High : 200-499 Very High : >500 HDL Cholesterol 60.0 mg/dL Low: <40.0 PTA/MgCl2 High: >60.0 Direct LDL H 100.39 mg/dL Optimal: <100 Direct measured Near to above Optimal: 100\u2013129 Borderline High: 130-159 High: 160\u2013189 Very High: =190 VLDL 33.60 mg/dL 15 - 35 Calculated CHOL/HDL Ratio 3.1 Up to 5.0 Calculated LDL/HDL Ratio 1.7 Up to 3.5 Calculated Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 2
+        }
+    },
+    "34": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Fluoride plasma Biochemistry Test Result Unit Biological Ref. Interval Fasting Blood Sugar H 141.0 mg/dL 74 - 106 GOD-POD Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah Page 4 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 3
+        }
+    },
+    "35": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : EDTA Blood HbA1c (Glycosylated Hemoglobin) Test Result Unit Biological Ref. Interval HbA1c H 7.10 % For Screening: High Performance Liquid Chromatography Diabetes: >6.5% Pre-Diabetes: 5.7% - 6.4% Non-Diabetes: < 5.7% For Diabetic Patient: Poor Control : > 7.0 % Good Control : 6.0-7.0 % Mean Blood Glucose 157.07 mg/dL Calculated Explanation:- \u2022 Total haemoglobin A1 c is continuously synthesized in the red blood cell throught its 120 days life span. The concentration of HBA1c in the cell reflects the average blood glucose concentration it encounters. \u2022 The level of HBA1c increases proportionately in patients with uncontrolled diabetes. It reflects the average blood glucose concentration over an extended time period and remains unaffected by short-term fluctuations in blood glucose levels. \u2022 The measurement of HbA1c can serve as a convenient test for evaluating the adequacy of diabetic control and in preventing various diabetic complications. Because the average half life of a red blood cell is sixty days, HbA1c has been accepted as a measurement which reflects the mean daily blood glucose concentration, better than fasting blood glucose determination, and the degree of carbohydrate imbalance over the preceding two months. \u2022 It may also provide a better index of control of the diabetic patient without resorting to glucose loading procedures. HbA1c assay Interferences: Erroneous values might be obtained from samples with abnormally elevated quantities of other Haemoglobins as a result of either their simultaneous elution with HbA1c (HbF) or differences in their glycation from that of HbA (HbS). Reference: ADA Guideline 2023 DR.TEJASWINI DHOTE Dr. Sanjeev Shah Dr.Yash Shah Page 5 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 4
+        }
+    },
+    "36": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Thyroid Function Test Test Result Unit Biological Ref. Interval T3 - Triiodothyronine 1.01 ng/mL 0.58 - 1.59 Chemiluminescence T4 - Thyroxine 7.84 mg/mL 4.87 - 11.72 TSH - Thyroid Stimulating Hormone 0.8199 microIU/mL 0.35 - 4.94 Chemiluminescence Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 5
+        }
+    },
+    "37": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Urine Biochemistry Test Result Unit Biological Ref. Interval Microalbumin (per urine volume) 10.50 mg/L < 16.7 Immunoturbidimetric In random urine specimens, normal urinary albumin excretion is below 17 mg/g creatinine for males and below 25 mg/g creatinine for females.(3) Microalbuminuria is defined as an albumin:creatinine ratio of 17 to 299 for males and 25 to 299 for females. A ratio of albumin:creatinine of 300 or higher is indicative of overt proteinuria. Due to biologic variability, positive results should be confirmed by a second, first-morning random or 24-hour timed urine specimen. If there is discrepancy, a third specimen is recommended. When 2 out of 3 results are in the microalbuminuria range, this is evidence for incipient nephropathy and warrants increased efforts at glucose control, blood pressure control, and institution of therapy with an angiotensin-converting-enzyme (ACE) inhibitor (if the patient can tolerate it). Reference : 1. Bennett PH, Haffner S, Kasiske BL, et al: Screening and management of microalbuminuria in patients with diabetes mellitus: recommendations to the Scientific Advisory Board of the National Kidney Foundation from an ad hoc committee of the Council on Diabetes Mellitus of the National Kidney Foundation. Am J Kidney Dis 1995;25:107-112 2. Krolewski AS, Laffel LM, Krolewski M, et al: Glycosylated hemoglobin and the risk of microalbuminuria in patients with insulin-dependent diabetes mellitus. N Engl J Med 1995;332:1251-1255 3. Zelmanovitz T, Gross JL, Oliveira JR, et al: The receiver operating characteristics curve in the evaluation of a random urine specimen as a screening test for diabetic nephropathy. Diabetes Care 1997;20:516-519 Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 6
+        }
+    },
+    "38": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Protein Test Result Unit Biological Ref. Interval Total Protein 7.00 g/dL 6.3 - 8.2 Copper tartrate to colour complex Albumin 4.20 g/dL 3.5 - 5.0 Bromocresol Green Method Globulin 2.80 g/dL 2.3 - 3.5 Calculated A/G Ratio 1.50 1.3 - 1.7 Calculated Bilirubin Total Bilirubin 0.70 mg/dL 0.2 - 1.3 Azobilirubin chromophores Conjugated Bilirubin 0.30 mg/dL 0.0 - 0.3 Cationic Mordant Binding Unconjugated Bilirubin 0.20 mg/dL 0.0 - 1.1 Cationic Mordant Binding Delta Bilirubin 0.20 mg/dL 0.0 - 0.2 Calculated Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 7
+        }
+    },
+    "39": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Iron Studies Test Result Unit Biological Ref. Interval Iron 103.00 micro g/dL 49 - 181 Pyridyl azo Dye Total Iron Binding Capacity (TIBC) 352.00 261 - 462 Transferrin Saturation 29.26 % Children : >16 Calculated Adult : 20 - 50 Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 8
+        }
+    },
+    "40": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Immunoassay Test Result Unit Biological Ref. Interval Homocysteine, Serum H 23.86 micromol/L 6.0 - 14.8 Chemiluminescence Summary and Uses: \u2022 Total Hcy is a thiol-containing amino acid, produced by the intracellular demethylation of methionine to cysteine. \u2022 Elevated levels of t Hcy may be used to exclude or confirm deficiencies of vitamin B12 or folate. \u2022 It is recommended to test in patients using medications that interfere with folate status (methotrexate, antiepileptics), vegetarians without B12 supplementations, unexplained anemia, peripheral neuropathy or myleopathy, recurrent spontaneous abortions or infertility. \u2022 Testing also recommended for patients 40 years of age with coronary artery disease to exclude homocystinuria. \u2022 Elevations in tHcy levels have also been used as an independent risk factor of coronary or cerebral vascular disease. Treatment of moderate hyperhomocystinemia with folic acid supplementation for primary and secondary cardiovascular protection has met with inconsistent results and at present cannot be routinely recommended. Limitations: \u2022 The plasma must be seprated immediately on collection to avoid continuous synthesis of Hcy by red cells. \u2022 Samples must be immediately stored on ice and serum centrifuged immediately before a complete clot is formed. \u2022 Certain drugs, such as anticonvulsants, methotrexate, or nitrous oxide, may interfere with the assay. \u2022 Cigarette smoking and coffee consumption increase tHcy levels. \u2022 Intraindividual variability is approximately 8%; it can be as much as 25% in patients with hyperhomocystinemia. \u2022 Generally, a single measurement of tHcy is considered adequate. Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 9
+        }
+    },
+    "41": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Biochemistry Test Result Unit Biological Ref. Interval Creatinine, Serum 0.83 mg/dL 0.66 - 1.25 Creatinine Amidohydrolase Urea L 18.0 mg/dL 19.3 - 43.0 Urease, Colorimetric Blood Urea Nitrogen L 8.41 mg/dL 9.0 - 20.0 Calculated Uric Acid 4.90 mg/dL 3.5 - 8.5 Uricase Calcium 9.10 mg/dL 8.4 - 10.2 Arsenazo III SGPT 48.0 U/L 0 - 50 UV with P5P, IFCC SGOT 27.0 U/L 17 - 59 UV with P5P Electrolytes Sodium (Na+) 143.00 mmol/L 136 - 145 Direct- ISE Potassium (K+) 4.90 mmol/L 3.5 - 5.1 Direct- ISE Chloride (Cl-) 105.0 mmol/L 98 - 107 Direct- ISE Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 10
+        }
+    },
+    "42": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Immunoassay Test Result Unit Biological Ref. Interval 25(OH) Vitamin D 8.98 ng/mL Deficiency : <10 CLIA Insufficiency : 10 - 30 Sufficiency : 30 - 100 Toxicity : >100 Vitamin D is a fat soluble vitamin and exists in two main forms as cholecalciferol(vitamin D3) which is synthesized in skin from 7-dehydrocholesterol in response to sunlight exposure & Ergocalciferol(vitamin D2) present mainly in dietary sources.Both cholecalciferol & Ergocalciferol are converted to 25(OH)vitamin D in liver. Interpretation: Increased In Vitamin D intoxication Excessive exposure to sunlight Decreased In Malabsorption Steatorrhea Dietary osteomalacia, anticonvulsant osteomalacia Biliary and portal cirrhosis Thyrotoxicosis Pancreatic insufficiency Celiac disease Rickets Alzheimer disease Limitations: More recently, it has become clear that receptors for vitamin D are present in a wide variety of cells and that this hormone has biologic effects extending beyond the control of mineral metabolism. Vitamin D deficiency is not clear. Levels needed to prevent rickets and osteomalacia (15 ng/mL) are lower than those that dramatically suppress parathyroid hormone levels (20\u201330 ng/mL). In turn, those levels are lower than levels needed to optimize intestinal calcium absorption (34 ng/mL). Neuromuscular peak performance is associated with levels approximately 38 ng/mL. A recent study states that increasing mean baseline levels from 29 to 38 ng/mL was associated with a 50% lower risk for colon cancer and levels of 52 ng/mL with a 50% reduction in the incidence of breast cancer. It is recommended to have clinical correlation with serum 25(OH)vitamin D, serum calcium, serum PTH & serum alkaline phosphatase. DR.TEJASWINI DHOTE Dr. Sanjeev Shah Dr.Yash Shah Page 12 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 11
+        }
+    },
+    "43": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Immunoassay Test Result Unit Biological Ref. Interval Vitamin B12 L < 148 pg/mL 187 - 833 CLIA Vitamin B12 is essential in DNA synthesis, hematopoiesis, and CNS integrity. Interpretation: \u2022 Increased In : Chronic granulocytic leukemia , COPD and Chronic renal failure , Leukocytosis , Liver cell damage (hepatitis, cirrhosis) , Obesity and Severe CHF , Polycythemia vera , Protein malnutrition. \u2022 Decreased In : Abnormalities of cobalamin transport or metabolism , Bacterial overgrowth , Crohn disease , Dietary deficiency (e.g. in vegetarians) , Diphyllobothrium (fish tapeworm) infestation , Gastric or small intestine surgery , Hypochlorhydria , Inflammatory bowel diseas , Intestinal malabsorption and Intrinsic factor deficiency Limitations: Drugs such as chloral hydrate increase vitamin B12 levels. On the other hand , alcohol, aminosalicylic acid, anticonvulsants, ascorbic acid, cholestyramine, cimetidine, colchicines, metformin, neomycin, oral contraceptives, ranitidine, and triamterene decrease vitamin B12 levels. The evaluation of macrocytic anemia requires measurements of both vitamin B12 and folate levels; ideally they should be measured simultaneously. Specimen collection soon after blood transfusion can falsely increase vitamin B12 levels. Patients taking vitamin B12 supplementation may have misleading results. A normal serum concentration of B12 does not rule out tissue deficiency of vitamin B12. The most sensitive test for B12 deficiency at the cellular level is the assay for MMA. If clinical symptoms suggest deficiency, measurement of MMA and homocysteine should be considered, even if serum B12 concentrations are normal. DR.TEJASWINI DHOTE Dr. Sanjeev Shah Dr.Yash Shah Page 13 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 12
+        }
+    },
+    "44": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Immunoassay Test Result Unit Biological Ref. Interval PSA-Prostate Specific Antigen, Total 0.573 ng/mL 0 - 4 PSA is a glycoprotein that is expresses by both normal and neoplastic prostate tissue and is prostate tissue specific and not prostate cancer specific. PSA is constantly expressed in nearly all prastate cancers, although its level of expression on a percell basis is lower than in normal prostate epithelium. The absolute value of serum PSA is useful for determining the extent of prostate cancer and assessing the response to prostate cancer treatment; its use as a screening method to detect prostate cancer is also common. Interpretation Increased in Prostate disease (Cancer, Prostatitis, Benign prostatic hyperplasia, Acute urinary retention) Manipulations ( Cystoscopy, Needle biopsy, Radiation therapy, Indwelling catheter, Prostatic massage) Transurethral resection Prostatic ischemia Decreased in Castration Prostatectomy Radiation therapy Ejaculation withi 24 - 48 hours 5-alpha-reductase inhibitor reduces PSA by 50% after 6 months in men without cancer Limitations PSA has been recommended by the American Cancer Society for use in conjunction with a DRE for early detection of prostate cancer starting at the age of 50 years for men with at least 10 year life expectancy PSA levels that are measured repeatedly over time may vary because of biologic variability where the true PSA level in a given man is different on different measurements. A change in PSA of >30% in man with a PSA initially below 2.0 ng/mL was likely to indicate a true change beyond normal random variation. Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 13
+        }
+    },
+    "45": {
+        "text": "report authenticity Location : Ref. By : Sample Type : Serum Immunoassay Test Result Unit Biological Ref. Interval IgE H 492.30 IU/mL 0 - 87 CLIA IgE mediates allergic and hypersensitivity reactions. There is a significant overlap in total IgE between allergic and nonallergic individuals. Interpretation: -Increased In \u2022 Atopic diseases Exogenous asthama in approximately 60% of patients Hay fever in approximately 30% of patients and Atopic eczema Influenced by type of allergen, duration of stimulation. Presence of symptoms, and hyposensitization treatment Parasitic diseases (e.g. ascariasis, visceral larva migrans, hookworm disease, schistosomiasis, Echinococcus infestation) Monoclonal IgE myeloma -Decreased In Hereditary deficiencies Acquired immunodeficiency Ataxia-telangiectasis Non-IgE myeloma Limitations: A normal level of IgE in serum does not eliminate the possibility of allergic disease. Serum total IgE levels for the majority of individuals with IgE-mediated disease can be expected to be elevated compared to the reference range for healthy adults. However, not all allergic patients exhibit elevated serum total IgE levels. \u2022 Since not all atopic reactions are IgE-mediated, a total IgE result in the reference range should always be interpreted in light of other clinical observations. Heterophilic antibodies in human serum can react with the immunoglobulins included in the assay components causing interference with in vitro immunoassays. Dr. Purvish Darji Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 14
+        }
+    },
+    "46": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Serum Test Result Unit Biological Ref. Interval HIV I & II Ab/Ag with P24 Ag 0.070 S/Co Non Reactive : <1.0 Chemiluminescence Reactive : >1.0 Interpretation Non Reactive HBsAg 0.290 S/Co Non Reactive : <1.0 Chemiluminescence Reactive: >1.0 Interpretation Non Reactive Additional Information: 1. A NON REACTIVE result implies that no Anti HIV-1 or HIV -2 antibodies have been detected in the sample by this method. This means that either the patient has not been exposed to HIV-1 or HIV-2 infection or the sample has been tested during the \"WINDOW PHASE\" (before the development of detectable levels of antibodies). 2. A PROVISIONALITY REACTIVE / BORDERLINE REACTIVE result suggests possibility of HIV-1 or/and HIV-2 infection. However these results must be verified by confirmatory WESTERN BLOT / HIV PCR method before declaring the patient positive for HIV-1 or HIV-2 infection. 3. Very high levels of IgM Antibodies or Anti-HLA ABC and DR Antibodies can give false positive reaction. **Pre & Post test counselling for HIV testing is responsibility of reffering Physician. Dr. Siddharth Thummar Dr. Sanjeev Shah Dr.Yash Shah Page 16 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 15
+        }
+    },
+    "47": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : EDTA Blood HB Electrophoresis By HPLC Instrument Name: BIORAD VARIANT - II Haemoglobin Testing System Test Result Unit Biological Ref. Interval Hb A L 84.4 % 96.8 - 97.8 Hb A2 2.8 % 2.2 - 3.2 P2 Peak 5.5 % P3 Peak 5.2 % Foetal Hb 0.3 % 0.0 - 1.0 Interpretation Negative for typical beta thalassemia trait. Interpretation: All results have to be correlated with age and history of blood transfusion if there is history of blood transfusion in last 3 months, repeat testing after 3 month from last date of transfusion is recommended. In case of haemoglobinopathy, parents or family studies and councelling is advised. This test detects beta thalassaemia and haemoglobinopathies, DNA analysis is recommended to rule out alpha thalassaemia and silent carriers. Linearity range of HbF is 1-40%, However, values in excess of the reportable range have been provided for ease of interpretation. Mild to moderate increase in fetal haemoglobiin can be seen in some acquired condition like pregnancy, megaloblastic anaemia, Throtoxicosis, Hypoxia, Chronic kidney disease, Recovering marrow, MDS, Aplastic anaemia, PNH, Medications (Hydrocyurea, Erythropoietin) ect. P3 window-Above 10% is often indicative of either denatured froms of hemoglobins or may suggest a possibility of abnormal haemoglobin variant. Hence, repeat analysis with fresh sample or DNA studies is advised. P2 Window-Above 10% is indicative of either glycated haemoglonin requring correlation with diabetic staus or may suggest a possibility of abnormal haemoglobin variant further DNA studies for confirmation. Dr. Hardik Modi Dr. Sanjeev Shah Dr.Yash Shah elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 16
+        }
+    },
+    "48": {
+        "text": "Bio-Rad CDM System PATIENT REPORT VII Inst. #1. SN-13939 V2_BThal Patient Data Analysis Data Sample ID: 022321600126 Analysis Performed: 02/20/2023 13:56:59 Patient ID: Injection Number: 2575 Name: Run Number: 95 Physician: Rack ID: 0001 Sex: Tube Number: 2 DOB: Report Generated: 02/20/2023 14:04:40 Comments: Operator ID: Calibrated Retention Peak Peak Name Area % Area % Time (min) Area Unknown --- 0.1 1.00 2400 F 0.3 --- 1.08 8321 Unknown --- 1.6 1.18 44109 P2 --- 5.5 1.30 148807 P3 --- 5.2 1.72 139183 Ao --- 84.4 2.34 2277592 A2 2.8 --- 3.64 76999 Total Area: 2,697,411 F Concentration = 0.3 % A2 Concentration = 2.8 % Analysis comments: 45.0 37.5 30.0 22.5 15.0 7.5 0.0 0 1 2 3 4 5 6 Time (min.) 0 . 0 1 .1 - F 81.1 03.1 27.1 43.2 46.3 -2A Page 18 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 17
+        }
+    },
+    "49": {
+        "text": "MC-2202 report authenticity Location : Ref. By : Sample Type : Urine Test Result Unit Biological Ref. Interval Physical & Chemical (Dip strip) examination Colour Pale Yellow Pale Yellow Clearity Clear Clear pH 6.0 4.6 - 8.0 Double indicator Specific Gravity 1.030 1.005 - 1.030 Polyelectrolyte based reaction Urine Glucose Present (+) Absent GOD-POD Urine Protein Absent Absent Protein error of indicators Bilirubin Absent Absent Diazo reaction Urobilinogen Absent Absent Modified Ehrlich reaction Urine Ketone Absent Absent Nitroprusside Nitrite Absent Absent Nitrite reaction Microscopic Examination Pus Cells 1-2 Absent Red Cells Nil /hpf 0 - 2 Epithelial Cells 1-2 /hpf . Casts Absent /hpf Absent Crystals Absent /hpf Absent Amorphous Material Absent ------------------ End Of Report ------------------ DR.TEJASWINI DHOTE Dr. Sanjeev Shah Dr.Yash Shah Page 19 of 19 elaM-sraeY 14-arupmoS kidraH .rM-621006123220",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "lab_report",
+            "importance_score": 1.0,
+            "document_type": "lab_report",
+            "filename": "tmp6g4hs2oq.pdf",
+            "page": 18
+        }
+    },
+    "50": {
+        "text": "0000000000 o Vw mfine SELECT mM fi n e H.No. 26, A-Block, Behind DPS, Sector 30, Noida S ce L E Cc T Noida, Uttar Pradesh 201301 Name: Raja Tyagi Date: 03 Nov 2023 Age/Gender: 26years/Male Dr. Sangeeta Milap (MD-Physician) Chief Complaints Fever since 2 days and Cold Allergies * No drug allergy Diagnosis +Tiredness * Viral Fever (suspected) Diagnostic Test * COMPLETE HAEMOGRAM (Immediate) * Dengue Profile (Igm & Ns1) * Quantitaitve (Immediate) * cBC \u00b0 CRP TEST * Typhidot IgG IgM \u00ab MP QBC Prescription Sl. Medicine Name Dosage Freq. Duration Instructions 1. AZEE FILM-COATED TAB 250mg 1tab 1-0-1 5 days After Food @lipg:\\thromycin dihydrate 250mg",
+        "metadata": {
+            "profile_id": "profile-1",
+            "source_type": "prescription",
+            "importance_score": 0.9,
+            "document_type": "prescription",
+            "filename": "tmplj4d5slr.jpg",
+            "ocr_engine": "pytesseract"
+        }
+    }
+}

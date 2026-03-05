@@ -1,0 +1,11 @@
+{
+    "patient_id": "123",
+    "conditions": [
+        {
+            "name": "Hypertension",
+            "diagnosed_date": "2022-01-01",
+            "status": "active",
+            "notes": "Under monitoring"
+        }
+    ]
+}
